@@ -20,16 +20,14 @@ An interactive music visualizer built with JavaScript and the [p5.js](https://p5
 - [p5.sound](https://p5js.org/reference/#/libraries/p5.sound)
 
 ## 📦 Getting Started
+- Press P to play music
+- Press 1 - 5 to see different visualization
+- Click anywhere to switch to fullscreen
 
 ### Prerequisites
 
 All you need is a modern web browser (e.g., Chrome, Firefox) and a local server to load the audio properly.
 
-### Running Locally
+## 📸 Demo
 
-```bash
-git clone https://github.com/13nz/itp2.git
-cd itp2
-# Use any local server, e.g., Python's built-in HTTP server
-python3 -m http.server
-# Then open http://localhost:8000 in your browser
+Demo: https://13nz.github.io/music-visualizer/
